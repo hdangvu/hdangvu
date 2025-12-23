@@ -62,15 +62,6 @@ I enjoy projects that combine **theory with implementation**, with an emphasis o
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdangvu&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdangvu&layout=compact&theme=dracula" height="150"/>
-</p>
-
----
-
 ## Let’s Connect
 
 📧 **Email:** dangvuha.2803@gmail.com  
