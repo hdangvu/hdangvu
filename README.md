@@ -1,70 +1,79 @@
-# Hi there! 👋 I'm Ha Dang Vu
+# Hi, I’m Ha Dang Vu 👋  
 
-Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learning, and Deep Learning. Here's a glimpse of what you'll find here:
+**Data Science & Machine Learning | Statistical Modeling | Efficient AI**  
+**Master of Data Science (MSc), HEC Montréal**  
+Bachelor of Mathematics (Computational Mathematics), University of Waterloo  
+
+📍 Canada | 🎯 Seeking **Data Science / Machine Learning Internships — Summer 2026**
+
+---
 
 ## About Me
 
-- 🎓 Bachelor of Mathematics in Computational Mathematics from the University of Waterloo
-- 🏅 ASA DataFest 2024 Best Insight Winner
-- 🔍 Currently seeking opportunities in Data Science and Machine Learning
-- 📧 Contact: dangvuha.2803@gmail.com
-- 💼 LinkedIn: [hadangvu](https://www.linkedin.com/in/ha-dang-vu-7aa02b260)
+I am a **Master’s student in Data Science at HEC Montréal** with a strong foundation in **statistics, optimization, and machine learning**, and hands-on experience building **end-to-end ML pipelines**, conducting **applied research**, and developing **efficient models**.
+
+I’m especially interested in:
+- **Statistical modeling & inference**
+- **Efficient ML (knowledge distillation, optimization)**
+- **Applied ML for decision-making and real-world impact**
+
+I enjoy projects that combine **theory with implementation**, with an emphasis on **rigorous evaluation, interpretability, and scalability**.
+
+🏆 **ASA DataFest 2024 — Best Insight Award**
+
+---
+
+## Featured Projects
+
+🔹 **Efficient Financial Sentiment Modeling via Knowledge Distillation**  
+*PyTorch · HuggingFace · NLP · Model Compression*  
+- Distilled **FinBERT → ALBERT** using **Knowledge Distillation (KD)** and **Patient KD**  
+- Achieved **0.9626 Macro-F1** with **10× parameter reduction**  
+- Evaluated **KL divergence** and inference latency for deployment readiness  
+🔗 https://github.com/hdangvu/finbert-knowledge-distillation  
+
+🔹 **BIXI Montréal Trip Modeling & Demand Analysis**  
+*GLMs · Mixed Models · Applied Statistics*  
+- Modeled trip duration, rush-hour odds, and station-level effects  
+- Combined **EDA + inference + interpretability** for actionable insights  
+🔗 https://github.com/hdangvu/bixi-trip-behavior-analysis.git
+
+---
 
 ## Technical Skills
 
-### Languages:
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+### Programming & Data
+- **Python**, R, MATLAB, SQL  
+- NumPy, Pandas, scikit-learn  
+- PyTorch, TensorFlow, HuggingFace Transformers  
 
-### Libraries:
+### Machine Learning & Statistics
+- Supervised & Unsupervised Learning  
+- Generalized Linear Models (GLMs)  
+- Mixed-Effects Models  
+- Model Evaluation & Diagnostics  
+- Knowledge Distillation, Efficient ML  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-</div>
+### Tools & Workflow
+- Git & GitHub  
+- Linux, Conda  
+- Jupyter, Google Colab (GPU: T4 / L4 / A100)  
+- LaTeX (NeurIPS-style academic reports)
 
-### Tools:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-</div>
+---
 
+## GitHub Stats
 
-## My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdangvu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hdangvu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hdangvu&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdangvu&layout=compact&theme=dracula" height="150"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hdangvu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-## Let's Connect!
+## Let’s Connect
 
-Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to discussing data science, machine learning, or anything tech-related!
+📧 **Email:** dangvuha.2803@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/ha-dang-vu-7aa02b260  
+
+I’m always happy to connect about **data science projects, applied research, and internship opportunities**.
